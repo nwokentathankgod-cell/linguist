@@ -1,4 +1,4 @@
-name: Run Tests
+Verify name: Run Tests 3Dvzkf7XoARqbthpWqL44qSv1e8bxXyVte
 
 on:
   # Trigger the workflow on push or pull request, but only for the main branch
